@@ -126,3 +126,9 @@ ul{
   .lt-main .breadcrumb a {
     color: #337AB7;
   }
+  
+.lt-main .echarts-left, 
+.lt-main .echarts-right {
+  width: 48%;
+  height: 400px;
+} 
