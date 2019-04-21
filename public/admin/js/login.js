@@ -53,7 +53,7 @@ $(function(){
                  $('#form').data('bootstrapValidator').updateStatus('password','INVALID','callback');
                 }
                 if(data.success){
-                    // location.href='index.html';
+                    location.href='index.html';
                     console.log(1)
                 }
             }
